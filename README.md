@@ -115,9 +115,3 @@ Open the notebook using Google Colab or Jupyter Notebook and execute all cells s
 - FIFA/Elo Rankings
 - Streamlit Web Application
 - Live Match Predictions
-
----
-
-## Author
-
-Your Name
